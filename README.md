@@ -19,7 +19,7 @@ It resolves cryptic transmission links by integrating three critical data stream
 The resulting $P_{ij}$ matrix forms a directed, weighted transmission network, which has been shown to be substantially more informative than networks derived solely from consensus sequences.
 
 <p align="center">
-  <img src="asset/ModelSummary.png" alt="framework" width="760">
+  <img src="asset/ModelSummary.jpeg" alt="framework" width="760">
 </p>
 
 ---
